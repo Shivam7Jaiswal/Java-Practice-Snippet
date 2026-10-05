@@ -1,4 +1,4 @@
-# ☕ Java Snippets
+
 
 A collection of small, focused Java code snippets covering core concepts and beyond. Each snippet is short, self-contained, and easy to run, so it works as both a quick reference and a revision aid.
 
